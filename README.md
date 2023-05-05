@@ -6,8 +6,6 @@
 
 Using the application you will be able to configure reminders for 'pet cuddles' to be send using email.
 
-IF YOU HAVE ANY ISSUES WITH THIS DEMO - CHECK THE COMMON PROBLEMS PAGE https://github.com/acantril/learn-can... AND PLEASE MAKE SURE YOU FOLLOW THE UPDATED TEXT INSTRUCTIONS https://github.com/acantril/learn-can...
-
 ## This advanced demo consists of 6 stages :-
 
 - STAGE 1 : Configure Simple Email service **
