@@ -1,0 +1,13 @@
+
+Function ARN
+arn:aws:lambda:us-east-1:780026208030:function:email_reminder_lambda
+
+State machines
+ARN
+arn:aws:states:us-east-1:780026208030:stateMachine:pet-cuddle-o-tron
+
+api_lambda
+Function ARN
+arn:aws:lambda:us-east-1:780026208030:function:api_lambda
+
+Invoke URL: https://fikfqeyp7g.execute-api.us-east-1.amazonaws.com/prod

@@ -1,0 +1,8 @@
+not able to complete this mini project ending with this message bug
+"
+tcuddleotron9.s3-website-us-east-1.amazonaws.com/:1 Access to fetch at 'https://smajgeyo32.execute-api.us-east-1.amazonaws.com/prod/petcuddleotron' from origin 'http://petcuddleotron9.s3-website-us-east-1.amazonaws.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
+smajgeyo32.execute-api.us-east-1.amazonaws.com/prod/petcuddleotron:1     Failed to load resource: net::ERR_FAILED
+serverless.js:46 TypeError: Failed to fetch
+    at sendData (serverless.js:26:5)
+    at HTMLButtonElement.<anonymous> (serverless.js:21:80)
+"
